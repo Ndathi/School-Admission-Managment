@@ -18,13 +18,13 @@ const Footer = () => {
         </li>
         <li className="footer-item">
           <h4>Address</h4>
-          <p>West Rampura,Wapda Road,Dhaka-1219,Bangladesh.</p>
+          <p>Nairobi Kenya</p>
         </li>
         <li className="footer-item">
           <h4>Contact</h4>
           <p>
-            Mobile: (+88) - 1990 - 6886 <br /> Hotline: 1800 - 1102 <br /> Mail:
-            contact@ucera.com
+            Mobile: (+254) 720 766 839 <br /> Hotline: 1800 - 1102 <br /> Mail:
+            alexkimutai32@gmail.com
           </p>
         </li>
         <li className="footer-item">
@@ -36,7 +36,7 @@ const Footer = () => {
         </li>
       </ul>
       <p className="copyright-text">
-        <small>Copyright &copy; All Rights Reserved BySohel Rana Tipu.</small>
+        <small>Copyright &copy; All Rights Reserved Alex Kimutai.</small>
       </p>
     </footer>
   );
